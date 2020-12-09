@@ -1,4 +1,4 @@
-https://shashinduweerasekara.github.io/amazon-clone/
+https://shashinduweerasekara.github.io/randomuser/
 
 # Getting Started with Create React App
 
